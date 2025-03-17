@@ -4,5 +4,7 @@ version = "0.1.0"
 authors = ["spotthecow"]
 edition = "2024"
 description = "a simple process supervisor"
+repository = "https://github.com/spotthecow/babysitter"
+keywords = ["supervisor", "babysitter"]
 
 [dependencies]
